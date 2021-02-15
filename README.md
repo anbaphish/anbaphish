@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anbaphish
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in monies
+- 🌱 I’m currently learning ... Renpy and how how to cook for your mom
+- 💞️ I’m looking to collaborate on ... The law prevents me from allowing you to join, although you can make cookies with me and your mum after
 - 📫 How to reach me ... YungPhish@protonmail.com
 
 <!---
