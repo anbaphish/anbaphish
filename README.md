@@ -1,3 +1,8 @@
+![](https://files.catbox.moe/y5cu3n.gif)
+
+
+
+
 - 👋 Hi, I’m @anbaphish
 - 👀 I’m interested in monies
 - 🌱 I’m currently learning ... Renpy and how how to cook for your mom
