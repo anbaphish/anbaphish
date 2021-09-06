@@ -3,10 +3,10 @@
 
 
 
-- 👋 Hi, I’m @anbaphish
+- 👋 Hi, I’m Tony
 - 👀 I’m interested in monies
-- 🌱 I’m currently learning ... how to cook for you mum
-- 💞️ I’m looking to collaborate on ... 19 dollar fortnite card
+- 🌱 I’m currently learning nuffin
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... YungPhish@protonmail.com
 
 <!---
