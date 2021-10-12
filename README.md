@@ -7,7 +7,7 @@
 - 👀 I’m interested in monies
 - 🌱 I’m currently learning nuffin
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... YungPhish@protonmail.com
+- 📫 How to reach me ...
 
 <!---
 anbaphish/anbaphish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
