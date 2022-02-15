@@ -9,9 +9,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://files.catbox.moe/521wfo.png)
-
-what does this do????
-
-![](https://files.catbox.moe/mjosyd.png)
-
-
