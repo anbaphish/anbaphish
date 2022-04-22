@@ -5,8 +5,8 @@ Tony B-R
 @anthonyb-r:matrix.org
 
 
-// Email  ( Don't question the look, it's a forwarding alias ) // 
-bar.email.72obr@simplelogin.co   
+// Email me at // 
+anthony.barrerarubio@gmail.com
 
 
 
