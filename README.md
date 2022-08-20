@@ -6,7 +6,7 @@ Tony B-R
 
 
 // Email me at // 
-anthony.barrerarubio@gmail.com
+anthony.barrerarubio at gmail.com
 
 // Signal //
 Toil B
