@@ -4,10 +4,6 @@ Tony B-R
 // Matrix //
 @anthonyb-r:matrix.org
 
-
-// Email me at // 
-anthony.barrerarubio at gmail.com
-
 // Signal //
 Toil B
 
